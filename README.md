@@ -45,7 +45,7 @@ cp hcon26_rp2350-ctf_auto_setup.py $GHIDRA_INSTALL_DIR/Ghidra/Features/PyGhidra/
 
 2. Open the file in the `Code Browser`.
 
-3. **Auto-Analysis:** When prompted to analyze the file, select `No`.
+3. When prompted to analyze the file, select `No`.
 
 4. Open the Script Manager `Window > Script Manager`.
 
@@ -53,5 +53,4 @@ cp hcon26_rp2350-ctf_auto_setup.py $GHIDRA_INSTALL_DIR/Ghidra/Features/PyGhidra/
 
 6. Run the script and wait for the console output to confirm completion. Be sure to read the `Next Steps` information displayed in the console.
 
-7. After the setup script finishes, execute the **RP2350 SVD Loader** to map hardware registers and peripherals. 
-    * **RP2350 SVD Loader**: https://github.com/b1n4ri0/SVD-Loader-PyGhidra-RP2350
+7. After the setup script finishes, execute the [**RP2350 SVD Loader**](https://github.com/b1n4ri0/SVD-Loader-PyGhidra-RP2350) to map hardware registers and peripherals.
