@@ -43,11 +43,11 @@ cp hcon26_rp2350-ctf_auto_setup.py $GHIDRA_INSTALL_DIR/Ghidra/Features/PyGhidra/
 
 1. Import the target `.bin` file into Ghidra (RV32).
 
-2. Open the file in the **`CodeBrowser`**.
+2. Open the file in the `Code Browser`.
 
-3. **Auto-Analysis:** When prompted to analyze the file, select **`No`**.
+3. **Auto-Analysis:** When prompted to analyze the file, select `No`.
 
-4. Open the Script Manager **`Window** > **Script Manager**`.
+4. Open the Script Manager `Window > Script Manager`.
 
 5. Search for `hcon26_rp2350-ctf_auto_setup.py` located in the `RP2350` category.
 
